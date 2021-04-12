@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[5.3, 60.0], [5.2, 59.9], [5.2, 59.7], [12.3, 60.0], [12.5, 60.2], [12.5, 60.3], [5.3, 60.0]]]}, "properties": {"min": "200054.4", "max": "276276.88", "mean": "224229.1", "cells": "92", "datetime": "2021-04-10T19:00:00"}}]}
