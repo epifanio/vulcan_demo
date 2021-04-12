@@ -22,4 +22,6 @@ RUN pip install pyepsg
 RUN pip install confuse
 RUN pip install datashader
 
+COPY notebooks ${HOME}/notebooks
+
 USER ${USER}
